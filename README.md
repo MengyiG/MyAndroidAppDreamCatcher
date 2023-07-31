@@ -19,7 +19,11 @@ The source code for this project can not be made public owning to [VT academic H
 - swipe to delete entries of a dream.
 - swipe to delete a dream from dream list.
 
-### Tech stack - Kotlin, Safe Args, ItemTouchHelper, Room, View Model, Implicit Intent, SQLite.
+---
+
+### Highlights
+
+> Kotlin, Safe Args, ItemTouchHelper, Room, View Model, Implicit Intent, SQLite.
 
 - Created a DreamCatcher App in Kotlin, using the **Room framework** and **SQLite** so that users could add, update and delete dreams details and dream lists.
 - Used **implicit intents** to let users share dreams with other apps from the phone.
@@ -29,7 +33,7 @@ The source code for this project can not be made public owning to [VT academic H
 
 ![Mengyi Cartoon Pic](/Live,%20Love,%20Learn.png)
 
-Know more about me by
+Know more about **me** by
 
 - 🙋🏻‍♀️ going to my [Website](https://mengyig.github.io/#)
 - 😁 visiting my [LinkedIn](https://www.linkedin.com/in/mengyi-guo/)
