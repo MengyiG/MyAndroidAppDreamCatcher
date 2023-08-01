@@ -1,6 +1,6 @@
 # MyAndroidAppDreamCatcher
 
-## This Dream Catcher Android App was created for [CS5254: Mobile Application Development](https://cs.vt.edu/Graduate/Courses/GradCourseDescriptions.html) at Virginia Tech.
+## This Dream Catcher Android App is an academic project that was created for [CS5254: Mobile Application Development](https://cs.vt.edu/Graduate/Courses/GradCourseDescriptions.html) at Virginia Tech.
 
 The source code for this project can not be made public owning to [VT academic Honor Code](https://honorsystem.vt.edu/). However, please feel free to reach out if you have any questions. :wink:
 
